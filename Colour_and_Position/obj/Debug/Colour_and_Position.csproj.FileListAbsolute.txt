@@ -1,0 +1,8 @@
+C:\Custom Activity\Colour_and_Position\Colour_and_Position\bin\Debug\Colour_and_Position.exe.config
+C:\Custom Activity\Colour_and_Position\Colour_and_Position\bin\Debug\Colour_and_Position.exe
+C:\Custom Activity\Colour_and_Position\Colour_and_Position\bin\Debug\Colour_and_Position.pdb
+C:\Custom Activity\Colour_and_Position\Colour_and_Position\obj\Debug\Colour_and_Position.csproj.AssemblyReference.cache
+C:\Custom Activity\Colour_and_Position\Colour_and_Position\obj\Debug\Colour_and_Position.csproj.SuggestedBindingRedirects.cache
+C:\Custom Activity\Colour_and_Position\Colour_and_Position\obj\Debug\Colour_and_Position.csproj.CoreCompileInputs.cache
+C:\Custom Activity\Colour_and_Position\Colour_and_Position\obj\Debug\Colour_and_Position.exe
+C:\Custom Activity\Colour_and_Position\Colour_and_Position\obj\Debug\Colour_and_Position.pdb
